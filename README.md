@@ -11,7 +11,7 @@ Download the dataset:
 <img src="image/sample.png">
 
 
-## Contact:
+## Contact
 For more follow me on:
 
 - <a href="https://www.youtube.com/idiotdeveloper"> YouTube </a>
