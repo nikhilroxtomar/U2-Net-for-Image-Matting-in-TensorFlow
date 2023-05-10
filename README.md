@@ -10,6 +10,12 @@ Download the dataset:
 
 <img src="image/sample.png">
 
+## How to improve
+- Train on more epochs.
+- Increase the input image resolution.
+- Apply data augmentation.
+- Try new loss function.
+
 
 ## Contact
 For more follow me on:
