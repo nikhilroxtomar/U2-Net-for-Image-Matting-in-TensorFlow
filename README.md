@@ -10,6 +10,12 @@ Download the dataset:
 
 <img src="image/sample.png">
 
+## Results
+The sequence in the images below is as follows- `Input Image`, `Predicted Alpha Matte` and `Predicted Alpha Matte applied over Input Image`. <br/> <br/>
+![](results/joint/photo-1494790108377-be9c29b29330.jpg)
+![](results/joint/photo-1544723795-3fb6469f5b39.jpg)
+![](results/joint/photo-1438761681033-6461ffad8d80.jpg)
+
 ## How to improve
 - Train on more epochs.
 - Increase the input image resolution.
